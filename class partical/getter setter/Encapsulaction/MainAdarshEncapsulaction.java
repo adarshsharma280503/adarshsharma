@@ -1,3 +1,10 @@
+/*getter and setter
+name = Adarsh sharma
+date = 7/10/2022
+*/
+
+
+
 package Encapsulaction;
 
 class MainAdarshEncapsulaction {
