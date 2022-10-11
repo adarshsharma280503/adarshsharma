@@ -1,3 +1,9 @@
+/*
+name : Adarsh sharma
+date : 11/10/2022
+
+
+*/
 package javaprojrct;
 
 import java.util.Scanner;
