@@ -12,12 +12,21 @@ public class Pass_fail {
 	public static void main (String args[]) {
 		
 		Scanner sc = new Scanner(System.in);
+		System.out.println("enter the gender M/F : ");
+		String d = sc.nextLine();
+		
+		System.out.println("enter your name : ");
+		String b = sc.nextLine();
+		
 		System.out.println("enter the marks: ");
 		double a = sc.nextInt();
 		
+	        System.out.println("your name is : "+ a);
+		System.out.println("gender is : "+ d );
+		
 		double total_marks = 500;
 		double percentage= (a/total_marks*(100));
-		if(percentage<300)
+		if(percentage>=300)
 		
 		System.out.println("you are passed : "+percentage+"%" );
 			
