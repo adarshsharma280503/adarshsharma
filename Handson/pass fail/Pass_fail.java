@@ -1,3 +1,8 @@
+/* if the student score more than 60% is is pass or he/she is fail
+name : Adarsh sharma
+date : 11/10/2022
+*/
+
 package javaprojrct;
 
 import java.util.Scanner;
