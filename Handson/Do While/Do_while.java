@@ -1,3 +1,8 @@
+/*
+TOPIC: PRINT THE REVERSE OF COUNT BY USING DO  WHILE
+NAME: ADARSH SHARMA
+DATE : 12/10/2022
+*/
 package javaprojrct;
 
 import java.util.Scanner;
