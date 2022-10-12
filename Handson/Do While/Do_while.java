@@ -24,7 +24,7 @@ public class Do_while {
 		  System.out.println("the reverse of number"+a1 );
 		  break;
 		 }
-		while(a1>=10);
+		while(a1>=0);
 } 
 }
 }
