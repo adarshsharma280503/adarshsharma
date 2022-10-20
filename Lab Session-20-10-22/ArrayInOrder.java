@@ -1,3 +1,13 @@
+/*
+  Question - Array Ascending Descending Order.
+  Name - Sharma Adarsh.
+  Date - 20/10/2022.
+ */
+
+
+
+
+
 package javapractical;
 
 import java.util.*;
